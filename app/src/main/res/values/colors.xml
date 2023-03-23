@@ -15,4 +15,6 @@
     <color name="text_title">#909090</color>
     <color name="text_subtitle">#9c9c9c</color>
     <color name="text_contente">#ebecec</color>
+
+    <color name="dissableButtonRW">#E1E5EF</color> <!-- Letra de los botones deshabilitados -->
 </resources>

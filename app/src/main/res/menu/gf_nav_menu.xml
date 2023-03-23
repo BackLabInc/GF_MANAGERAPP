@@ -6,7 +6,10 @@
     <group android:checkableBehavior="single">
         <item android:id="@+id/gf_home"
             android:icon="@drawable/gf_home_app"
-            android:title="Home"/>
+            android:title="Inicio"/>
+        <item android:id="@+id/gf_block_App"
+            android:icon="@drawable/gf_bloqueo_apps"
+            android:title="Configuración Apps"/>
     </group>
 
     <item
